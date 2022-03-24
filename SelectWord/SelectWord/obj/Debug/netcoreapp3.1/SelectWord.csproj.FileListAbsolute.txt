@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\SelectWord\SelectWord\bin\Debug\netcoreapp3.1\SelectWord.exe
+C:\Users\Admin\source\repos\SelectWord\SelectWord\bin\Debug\netcoreapp3.1\SelectWord.deps.json
+C:\Users\Admin\source\repos\SelectWord\SelectWord\bin\Debug\netcoreapp3.1\SelectWord.runtimeconfig.json
+C:\Users\Admin\source\repos\SelectWord\SelectWord\bin\Debug\netcoreapp3.1\SelectWord.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SelectWord\SelectWord\bin\Debug\netcoreapp3.1\SelectWord.dll
+C:\Users\Admin\source\repos\SelectWord\SelectWord\bin\Debug\netcoreapp3.1\SelectWord.pdb
+C:\Users\Admin\source\repos\SelectWord\SelectWord\obj\Debug\netcoreapp3.1\SelectWord.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\SelectWord\SelectWord\obj\Debug\netcoreapp3.1\SelectWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\SelectWord\SelectWord\obj\Debug\netcoreapp3.1\SelectWord.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SelectWord\SelectWord\obj\Debug\netcoreapp3.1\SelectWord.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SelectWord\SelectWord\obj\Debug\netcoreapp3.1\SelectWord.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SelectWord\SelectWord\obj\Debug\netcoreapp3.1\SelectWord.dll
+C:\Users\Admin\source\repos\SelectWord\SelectWord\obj\Debug\netcoreapp3.1\SelectWord.pdb
+C:\Users\Admin\source\repos\SelectWord\SelectWord\obj\Debug\netcoreapp3.1\SelectWord.genruntimeconfig.cache
