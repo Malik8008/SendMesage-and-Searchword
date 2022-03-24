@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\SendMessage\SendMessage\bin\Debug\netcoreapp3.1\SendMessage.exe
+C:\Users\Admin\source\repos\SendMessage\SendMessage\bin\Debug\netcoreapp3.1\SendMessage.deps.json
+C:\Users\Admin\source\repos\SendMessage\SendMessage\bin\Debug\netcoreapp3.1\SendMessage.runtimeconfig.json
+C:\Users\Admin\source\repos\SendMessage\SendMessage\bin\Debug\netcoreapp3.1\SendMessage.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SendMessage\SendMessage\bin\Debug\netcoreapp3.1\SendMessage.dll
+C:\Users\Admin\source\repos\SendMessage\SendMessage\bin\Debug\netcoreapp3.1\SendMessage.pdb
+C:\Users\Admin\source\repos\SendMessage\SendMessage\obj\Debug\netcoreapp3.1\SendMessage.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\SendMessage\SendMessage\obj\Debug\netcoreapp3.1\SendMessage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\SendMessage\SendMessage\obj\Debug\netcoreapp3.1\SendMessage.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SendMessage\SendMessage\obj\Debug\netcoreapp3.1\SendMessage.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SendMessage\SendMessage\obj\Debug\netcoreapp3.1\SendMessage.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SendMessage\SendMessage\obj\Debug\netcoreapp3.1\SendMessage.dll
+C:\Users\Admin\source\repos\SendMessage\SendMessage\obj\Debug\netcoreapp3.1\SendMessage.pdb
+C:\Users\Admin\source\repos\SendMessage\SendMessage\obj\Debug\netcoreapp3.1\SendMessage.genruntimeconfig.cache
